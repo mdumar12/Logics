@@ -1,5 +1,5 @@
-import java.util.Arrays;
-
+import java. util.Arrays;
+//This logic will take  more space & Time.
 public class Sorting_with_one_for_loop
 {
 	public static void main(String[] args) {
